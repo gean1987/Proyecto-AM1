@@ -45,7 +45,7 @@ class UsuarioActualizarActivity : AppCompatActivity() {
         spnSexo=findViewById(R.id.spnSexoActualizar)
         btnGrabar=findViewById(R.id.btnActualizarDocente)
         btnEliminar=findViewById(R.id.btnEliminarDocente)
-        btnCerrar=findViewById(R.id.btnVolverDocenteActualizar)
+        btnCerrar=findViewById(R.id.btnVolver)
         btnGrabar.setOnClickListener { grabar() }
         btnCerrar.setOnClickListener { cerrar() }
         btnEliminar.setOnClickListener { eliminar() }

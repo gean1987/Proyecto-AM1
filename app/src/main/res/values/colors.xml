@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="botonGrabar">#C30E0E</color>
     <color name="botonCerrar">#051050</color>
+    <color name="botonEnvio">#3d40e6</color>
 </resources>
